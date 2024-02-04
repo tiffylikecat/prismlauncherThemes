@@ -7,8 +7,6 @@
 This repository exist for what i want my minecraft launchers to look like. Fell free to use the themes that i have been using in this repository.
 </p>
 
-#### This repository exist for what i want my minecraft launchers to look like. Fell free to use the themes that i have been using in this repository.
-
 ## Make **YOUR** minecraft launcher Look
 A true design, is a cute design!
 
