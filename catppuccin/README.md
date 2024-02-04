@@ -1,11 +1,11 @@
 <h3 align="center">
-	<img src="https://github.com/tiffylikecat/prismlauncherThemes/edit/main/catppuccin/prismlauncherLogo" width="128" alt="Logo"/><br/>
+	<img src="https://github.com/tiffylikecat/prismlauncherThemes/catppuccin/prismlauncherLogo" alt="Texto Alternativo">
 </h3>
 
 
 <center>
 
-# Título Centralizado
+Título Centralizado
 
 Este é um parágrafo de texto centralizado.
 
