@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-This repository exist for what i want my minecraft launchers to look like. Fell free to use the themes that i have been using in this repository.
+This repository exist for what i want my minecraft launchers to look like.<br> Fell free to use the themes that i have been using in this repository.
 </p>
 
 <p align="center">
