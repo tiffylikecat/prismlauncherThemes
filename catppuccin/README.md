@@ -2,10 +2,12 @@
   <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/prismlauncherLogo.png" alt="prismlauncherLogo">
 </p>
 
+<h2 align="center">Catppuccin 4 Prismlauncher🐱❤️</h2>
+
 <p align="center">
-  <h2>Catppuccin 4 Prismlauncher🐱❤️</h2>
-  All catppuccin themes original repository for prismlauncher are in this link https://github.com/PrismLauncher/Themes/tree/main/themes
+  All catppuccin themes original repository for prismlauncher are in this link [Themes](https://github.com/PrismLauncher/Themes/tree/main/themes)
 </p>
+
 
 Change YOUR launcher look
 - 🌻 Latte
