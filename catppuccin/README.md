@@ -8,6 +8,8 @@
   All catppuccin themes original repository for prismlauncher are in this link
 </p>
 
+https://github.com/PrismLauncher/Themes/tree/main/themes
+
 
 Change YOUR launcher look
 - 🌻 Latte
