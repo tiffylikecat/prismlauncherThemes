@@ -1,5 +1,11 @@
-<h1 style="text-align: center;">Test</h1>
-Some content
+<center>
+
+# Título Centralizado
+
+Este é um parágrafo de texto centralizado.
+
+</center>
+
 
 <h2 align="center">
     Catppuccin 4 Prismlauncher🐱❤️
