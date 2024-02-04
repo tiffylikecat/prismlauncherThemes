@@ -2,9 +2,8 @@
   <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/prismlauncherLogo.png" alt="prismlauncherLogo">
 </p>
 
-<h2 align="center">
-    Catppuccin 4 Prismlauncher🐱❤️
-</h2>
+<h3 align="center">Catppuccin 4 Prismlauncher🐱❤️</h3>
+
 
 <h3 align="center">
     All catppuccin themes original repository for prismlauncher are in this link https://github.com/PrismLauncher/Themes/tree/main/themes
