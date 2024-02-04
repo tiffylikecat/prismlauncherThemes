@@ -5,3 +5,13 @@
 <h2 align="center">
 My personal prismlauncher themes
 </h2>
+
+<h2 align="center">
+This repository exist for what i want my minecraft launchers to look like. Fell free to use the themes that i have been using in this repository.
+</h2>
+
+## Make **YOUR** minecraft launcher Look
+A true design, is a cute design!
+
+## Prismlauncher documentation for customization
+https://prismlauncher.org/wiki/getting-started/change-themes/
