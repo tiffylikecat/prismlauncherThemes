@@ -5,7 +5,7 @@
 <h2 align="center">Catppuccin 4 Prismlauncher🐱❤️</h2>
 
 <p align="center">
-  All catppuccin themes original repository for prismlauncher are in this link [Themes](https://github.com/PrismLauncher/Themes/tree/main/themes)
+  All catppuccin themes original repository for prismlauncher are in this link
 </p>
 
 
