@@ -6,8 +6,15 @@
 Catppuccin 4 Prismlauncher🐱❤️
 </p>
 
-original catppuccin theme repository
-official catppuccin repository
+<p align="center">
+All themes original repository:
+https://github.com/PrismLauncher/Themes/tree/main/themes
+</p>
+
+<p align="center">
+Oficial catppuccin repository:
+https://github.com/catppuccin/catppuccin/tree/main
+</p>
 
 Change YOUR launcher look
 - 🌻 Latte
