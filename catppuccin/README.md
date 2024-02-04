@@ -16,7 +16,7 @@ Oficial catppuccin repository:
 https://github.com/catppuccin/catppuccin/tree/main
 </p>
 
-Change YOUR launcher look
+## Change YOUR launcher look
 - 🌻 Latte
 - 🪴 Frappé
 - 🌺 Macchiato
