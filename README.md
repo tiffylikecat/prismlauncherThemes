@@ -1,16 +1,11 @@
 <p align="center">
   <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/prismlauncherLogo.png" alt="prismlauncherLogo"><br>
-  <span style="font-size: 1.5em;">My personal prismlauncher themes</span>
+  My personal prismlauncher themes
 </p>
 
-
-<h2 align="center">
-My personal prismlauncher themes
-</h2>
-
-<h2 align="center">
+<p align="center">
 This repository exist for what i want my minecraft launchers to look like. Fell free to use the themes that i have been using in this repository.
-</h2>
+</p>
 
 #### This repository exist for what i want my minecraft launchers to look like. Fell free to use the themes that i have been using in this repository.
 
