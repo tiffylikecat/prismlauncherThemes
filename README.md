@@ -12,5 +12,5 @@ Make <b>YOUR</b> minecraft launcher Look!<br>
 A true design, is a cute design! 
 </p>
 
-Prismlauncher [documentation] for customization(https://prismlauncher.org/wiki/getting-started/change-themes/)
+Prismlauncher [documentation](https://prismlauncher.org/wiki/getting-started/change-themes/) for customization.
 https://prismlauncher.org/wiki/getting-started/change-themes/
