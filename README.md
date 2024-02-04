@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/prismlauncherLogo.png" alt="prismlauncherLogo"><br>
-  My personal prismlauncher themes
+  <h2>My personal prismlauncher themes</h2>
 </p>
 
 
