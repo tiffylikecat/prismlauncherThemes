@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/prismlauncherLogo.png" alt="prismlauncherLogo"><br>
-  <h2>My personal prismlauncher themes</h2>
+  <span style="font-size: 1.5em;">My personal prismlauncher themes</span>
 </p>
+
 
 
 <p align="center">
