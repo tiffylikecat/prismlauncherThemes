@@ -1,3 +1,6 @@
+<h1 style="text-align: center;">Test</h1>
+Some content
+
 <h2 align="center">
     Catppuccin 4 Prismlauncher🐱❤️
 </h2>
