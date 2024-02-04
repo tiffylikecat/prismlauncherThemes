@@ -24,8 +24,8 @@ https://github.com/catppuccin/catppuccin/tree/main
 
 
 <p align="center">
-  <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/catppuccinLattePreview.png" alt="catppuccinLattePreview">
-  <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/catppuccinFrappePreview.png" alt="catppuccinFrappePreview">
-  <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/catppuccinMacchiatoPreview.png" alt="catppuccinMacchiatoPreview">
-  <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/catppuccinMochaPreview.png" alt="catppuccinMochaPreview">
+  <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/preview/catppuccinLattePreview.png" alt="catppuccinLattePreview">
+  <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/preview/catppuccinFrappePreview.png" alt="catppuccinFrappePreview">
+  <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/preview/catppuccinMacchiatoPreview.png" alt="catppuccinMacchiatoPreview">
+  <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/preview/catppuccinMochaPreview.png" alt="catppuccinMochaPreview">
 </p>
