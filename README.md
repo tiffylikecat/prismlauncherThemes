@@ -13,11 +13,8 @@ A true design, is a cute design!<br> <br>
 </p>
 
 <div align="center">
-  <ul>
-    <li><a href="https://prismlauncher.org/wiki/getting-started/change-themes/" target="_blank">Prismlauncher documentation</a> for customization.</li>
-    <li>outro teste</li>
-    <li>mais um teste</li>
-  </ul>
+Prismlauncher
+<a href="https://prismlauncher.org/wiki/getting-started/change-themes/" target="_blank">Prismlauncher documentation</a> for customization.
 </div>
 
 - Prismlauncher [documentation](https://prismlauncher.org/wiki/getting-started/change-themes/) for customization.
