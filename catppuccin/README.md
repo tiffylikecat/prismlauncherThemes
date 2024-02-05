@@ -7,10 +7,6 @@ Catppuccin 4 Prismlauncher🐱❤️<br>
 My favorite theme soo far, love it🥹<br> <br>
 </p>
 
-<p align="center">
-My favorite theme soo far, love it🥹<br> <br>
-</p>
-
 <p>
 All original
 <a href="https://github.com/PrismLauncher/Themes/tree/main/themes" target="_blank">themes</a> repository
