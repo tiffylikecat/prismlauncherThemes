@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Catppuccin 4 Prismlauncher🐱❤️
+Catppuccin 4 Prismlauncher🐱❤️<br>
 My favorite theme soo far, love it🥹<br> <br>
 </p>
 
