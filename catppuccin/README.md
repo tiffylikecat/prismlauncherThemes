@@ -21,7 +21,7 @@ Catppuccin themes🐈
 </p>
 
 <ul>
-  <li>🌻 Latte</li>
+  <li>🌻 <a href="https://github.com/tiffylikecat/prismlauncherThemes/tree/main/catppuccin/themes/Catppuccin-Latte" target="_blank">Latte</a></li>
   <li>🪴 Frappé</li>
   <li>🌺 Macchiato</li>
   <li>🌿 Mocha</li>
