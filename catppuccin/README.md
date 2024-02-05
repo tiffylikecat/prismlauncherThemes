@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/prismlauncherLogo.png" alt="prismlauncherLogo">
+  <img src="https://media.tenor.com/bb2R0oqXPoEAAAAi/furnace-cats-campfire-meme.gif" alt="prismlauncherLogo">
 </p>
 
 <p align="center">
