@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/minecraft-window-outside-nature-video-game-gif-17824516" alt="chadsteve" style="margin: auto;">
+  <img src="https://media.tenor.com/Uw2LviT6ahMAAAAi/minecraft-window.gif" alt="4thwall" style="margin: auto;">
 </p>
 
 <p align="center">
