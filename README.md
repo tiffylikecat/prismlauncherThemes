@@ -19,9 +19,9 @@ Prismlauncher
 <a href="https://github.com/PrismLauncher/Themes/tree/main/themes" target="_blank">themes</a> repository<br> <br>
 </div>
 
-<div style="text-align: center;">
+<p style="text-align: center;">
   <img src="https://media1.tenor.com/m/2iBayblKJlsAAAAC/minecraft-minecraft-memes.gif" alt="chadsteve" style="margin: auto;">
-</div>
+</p>
 
 
 
