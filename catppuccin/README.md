@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/bb2R0oqXPoEAAAAi/furnace-cats-campfire-meme.gif" alt="prismlauncherLogo">
+  <img src="https://media.tenor.com/bb2R0oqXPoEAAAAi/furnace-cats-campfire-meme.gif" alt="kitties">
 </p>
 
 <p align="center">
@@ -19,6 +19,7 @@ Oficial
 <p>
 Cute 
 <a href="https://github.com/tiffylikecat/prismlauncherThemes/tree/main/catppuccin/catpacks" target="_blank">catpacks</a> 4 <b>everyone</b>👈
+<img src="https://tenor.com/pt-BR/view/cat-super-cat-tales-super-cat-bros-alex-super-cat-tales-alex-cat-gif-21659705" alt="MOREkitties">
 </p>
 
 <p>
