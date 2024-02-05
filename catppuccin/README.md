@@ -8,12 +8,12 @@ Catppuccin 4 Prismlauncher🐱❤️
 
 <p>
 All original
-<a href="https://github.com/PrismLauncher/Themes/tree/main/themes" target="_blank">themes</a> repository<br>
+<a href="https://github.com/PrismLauncher/Themes/tree/main/themes" target="_blank">themes</a> repository
 </p>
 
 <p>
 Oficial
-<a href="https://github.com/catppuccin/catppuccin/tree/main" target="_blank">catppuccin</a> repository<br> <br>
+<a href="https://github.com/catppuccin/catppuccin/tree/main" target="_blank">catppuccin</a> repository
 </p>
 
 <p>
