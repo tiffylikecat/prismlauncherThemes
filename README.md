@@ -13,5 +13,5 @@ A true design, is a cute design!<br> <br>
 </p>
 
 - Prismlauncher [documentation](https://prismlauncher.org/wiki/getting-started/change-themes/) for customization.
-- Prismlauncher [themes](https://github.com/PrismLauncher/Themes/tree/main/themes) repository
+- Prismlauncher [themes](https://github.com/PrismLauncher/Themes/tree/main/themes) repository<br>
 ![chadsteve](https://media1.tenor.com/m/2iBayblKJlsAAAAC/minecraft-minecraft-memes.gif)
