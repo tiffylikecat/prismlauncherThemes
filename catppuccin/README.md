@@ -16,8 +16,11 @@ Oficial catppuccin repository:
 https://github.com/catppuccin/catppuccin/tree/main
 </p>
 
+<p>
+Catppuccin themes🐈
+</p>
+
 <ul>
-  Catppuccin themes🐈
   <li>🌻 Latte</li>
   <li>🪴 Frappé</li>
   <li>🌺 Macchiato</li>
