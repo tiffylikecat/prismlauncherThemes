@@ -17,7 +17,8 @@ Oficial
 </p>
 
 <p>
-Cute catpacks 4 <b>everyone</b>👈
+Cute 
+<a href="https://github.com/tiffylikecat/prismlauncherThemes/tree/main/catppuccin/catpacks" target="_blank">catpacks</a> 4 <b>everyone</b>👈
 </p>
 
 <p>
