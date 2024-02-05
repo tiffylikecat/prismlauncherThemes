@@ -17,11 +17,17 @@ Oficial
 </p>
 
 <p>
-ITS KITTYS RAID, MEOOOOW!!!🐈
+Cute catpacks 4 <b>everyone</b>👈
 </p>
 
 <p>
 Catppuccin themes🐈
+<ul>
+  <li>🌻 <a href="https://github.com/tiffylikecat/prismlauncherThemes/tree/main/catppuccin/themes/Catppuccin-Latte" target="_blank">Latte</a></li>
+  <li>🪴 <a href="https://github.com/tiffylikecat/prismlauncherThemes/tree/main/catppuccin/themes/Catppuccin-Frappe" target="_blank">Frappé</a></li>
+  <li>🌺 <a href="https://github.com/tiffylikecat/prismlauncherThemes/tree/main/catppuccin/themes/Catppuccin-Macchiato" target="_blank">Macchiato</a></li>
+  <li>🌿 <a href="https://github.com/tiffylikecat/prismlauncherThemes/tree/main/catppuccin/themes/Catppuccin-Mocha" target="_blank">Mocha</a></li>
+</ul>
 </p>
 
 <ul>
@@ -36,4 +42,8 @@ Catppuccin themes🐈
   <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/preview/catppuccinFrappePreview.png" alt="catppuccinFrappePreview">
   <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/preview/catppuccinMacchiatoPreview.png" alt="catppuccinMacchiatoPreview">
   <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/preview/catppuccinMochaPreview.png" alt="catppuccinMochaPreview">
+</p>
+
+<p>
+ITS KITTYS RAID, MEOOOOW!!!🐈
 </p>
