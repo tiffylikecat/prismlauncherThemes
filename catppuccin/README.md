@@ -7,8 +7,8 @@ Catppuccin 4 Prismlauncher🐱❤️
 </p>
 
 <p align="center">
-All themes original repository:
-https://github.com/PrismLauncher/Themes/tree/main/themes
+All
+<a href="https://github.com/PrismLauncher/Themes/tree/main/themes" target="_blank">themes</a> original repository
 </p>
 
 <p align="center">
