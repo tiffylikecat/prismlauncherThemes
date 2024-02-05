@@ -20,8 +20,9 @@ Prismlauncher
 </div>
 
 <div style="text-align: center;">
-  <img src="https://media1.tenor.com/m/2iBayblKJlsAAAAC/minecraft-minecraft-memes.gif" alt="chadsteve" style="display: block; margin: auto;">
+  <img src="https://media1.tenor.com/m/2iBayblKJlsAAAAC/minecraft-minecraft-memes.gif" alt="chadsteve" style="margin: auto;">
 </div>
+
 
 
 ![chadsteve](https://media1.tenor.com/m/2iBayblKJlsAAAAC/minecraft-minecraft-memes.gif)
