@@ -7,8 +7,8 @@ Catppuccin 4 Prismlauncher🐱❤️
 </p>
 
 <p align="center">
-All
-<a href="https://github.com/PrismLauncher/Themes/tree/main/themes" target="_blank">themes</a> original repository
+All original
+<a href="https://github.com/PrismLauncher/Themes/tree/main/themes" target="_blank">themes</a> repository
 </p>
 
 <p align="center">
@@ -26,13 +26,6 @@ Catppuccin themes🐈
   <li>🌺 Macchiato</li>
   <li>🌿 Mocha</li>
 </ul>
-
-Change YOUR launcher look
-🌻 Latte
-🪴 Frappé
-🌺 Macchiato
-🌿 Mocha
-
 
 <p align="center">
   <img src="https://github.com/tiffylikecat/prismlauncherThemes/blob/main/catppuccin/preview/catppuccinLattePreview.png" alt="catppuccinLattePreview">
