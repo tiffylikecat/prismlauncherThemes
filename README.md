@@ -12,11 +12,13 @@ Make your minecraft launcher Look, as you look!<br>
 A true design, is a cute design!<br> <br>
 </p>
 
+<p align="center">
 <ul>
-  <li>teste</li>
+  <li><a href="https://prismlauncher.org/wiki/getting-started/change-themes/" target="_blank">Prismlauncher documentation</a> for customization.</li>
   <li>outro teste</li>
   <li>mais um teste</li>
 </ul>
+</p>
 
 
 - Prismlauncher [documentation](https://prismlauncher.org/wiki/getting-started/change-themes/) for customization.
