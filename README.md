@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="https://tenor.com/pt-BR/view/minecraft-window-outside-nature-video-game-gif-17824516" alt="chadsteve" style="margin: auto;">
+</p>
+
+<p align="center">
 This repository exist for what i want my minecraft launchers to look like.<br> Fell free to use the themes that i have been using in this repository.<br> <br>
 </p>
 
@@ -22,7 +26,3 @@ Prismlauncher
 <p align="center">
   <img src="https://media1.tenor.com/m/2iBayblKJlsAAAAC/minecraft-minecraft-memes.gif" alt="chadsteve" style="margin: auto;">
 </p>
-
-
-
-![chadsteve](https://media1.tenor.com/m/2iBayblKJlsAAAAC/minecraft-minecraft-memes.gif)
