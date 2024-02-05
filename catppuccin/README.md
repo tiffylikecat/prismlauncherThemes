@@ -19,7 +19,7 @@ Oficial
 <p>
 Cute 
 <a href="https://github.com/tiffylikecat/prismlauncherThemes/tree/main/catppuccin/catpacks" target="_blank">catpacks</a> 4 <b>everyone</b>👈
-<img src="https://tenor.com/pt-BR/view/cat-super-cat-tales-super-cat-bros-alex-super-cat-tales-alex-cat-gif-21659705" alt="MOREkitties">
+<img src="https://media.tenor.com/wH_wRoN74a4AAAAi/cat-super-cat-tales.gif" alt="MOREkitties">
 </p>
 
 <p>
