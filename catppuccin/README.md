@@ -22,9 +22,9 @@ Catppuccin themes🐈
 
 <ul>
   <li>🌻 <a href="https://github.com/tiffylikecat/prismlauncherThemes/tree/main/catppuccin/themes/Catppuccin-Latte" target="_blank">Latte</a></li>
-  <li>🪴 Frappé</li>
-  <li>🌺 Macchiato</li>
-  <li>🌿 Mocha</li>
+  <li>🪴 <a href="https://github.com/tiffylikecat/prismlauncherThemes/tree/main/catppuccin/themes/Catppuccin-Frappe" target="_blank">Frappé</a></li>
+  <li>🌺 <a href="https://github.com/tiffylikecat/prismlauncherThemes/tree/main/catppuccin/themes/Catppuccin-Macchiato" target="_blank">Macchiato</a></li>
+  <li>🌿 <a href="https://github.com/tiffylikecat/prismlauncherThemes/tree/main/catppuccin/themes/Catppuccin-Mocha" target="_blank">Mocha</a></li>
 </ul>
 
 <p align="center">
