@@ -7,7 +7,7 @@ Catppuccin 4 Prismlauncher🐱❤️
 </p>
 
 <p align="center">
-My favorite theme soo far, love it🥹
+My favorite theme soo far, love it🥹<br>
 </p>
 
 <p>
