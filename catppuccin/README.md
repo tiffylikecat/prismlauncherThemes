@@ -12,8 +12,8 @@ All original
 </p>
 
 <p align="center">
-Oficial catppuccin repository:
-https://github.com/catppuccin/catppuccin/tree/main
+Oficial
+<a href="https://github.com/catppuccin/catppuccin/tree/main" target="_blank">catppuccin</a> repository:
 </p>
 
 <p>
