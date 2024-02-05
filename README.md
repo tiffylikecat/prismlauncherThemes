@@ -14,7 +14,7 @@ A true design, is a cute design!<br> <br>
 
 <div align="center">
 Prismlauncher
-<a href="https://prismlauncher.org/wiki/getting-started/change-themes/" target="_blank">Prismlauncher documentation</a> for customization.
+<a href="https://prismlauncher.org/wiki/getting-started/change-themes/" target="_blank">documentation</a> for customization.
 </div>
 
 - Prismlauncher [documentation](https://prismlauncher.org/wiki/getting-started/change-themes/) for customization.
