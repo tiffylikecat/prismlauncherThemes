@@ -4,13 +4,14 @@
 </p>
 
 <p align="center">
-This repository exist for what i want my minecraft launchers to look like.<br> Fell free to use the themes that i have been using in this repository.<br> <br> <br> 
+This repository exist for what i want my minecraft launchers to look like.<br> Fell free to use the themes that i have been using in this repository.<br> <br>
 </p>
 
 <p align="center">
 Make your minecraft launcher Look, as you look!<br>
-A true design, is a cute design! 
+A true design, is a cute design!<br> <br>
 </p>
 
 - Prismlauncher [documentation](https://prismlauncher.org/wiki/getting-started/change-themes/) for customization.
 - Prismlauncher [themes](https://github.com/PrismLauncher/Themes/tree/main/themes) repository
+![chadsteve](https://media1.tenor.com/m/2iBayblKJlsAAAAC/minecraft-minecraft-memes.gif)
