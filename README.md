@@ -19,6 +19,9 @@ Prismlauncher
 <a href="https://github.com/PrismLauncher/Themes/tree/main/themes" target="_blank">themes</a> repository<br> <br>
 </div>
 
-- Prismlauncher [documentation](https://prismlauncher.org/wiki/getting-started/change-themes/) for customization.
-- Prismlauncher [themes](https://github.com/PrismLauncher/Themes/tree/main/themes) repository<br> <br>
+<div style="text-align: center;">
+  <img src="https://media1.tenor.com/m/2iBayblKJlsAAAAC/minecraft-minecraft-memes.gif" alt="chadsteve" style="display: block; margin: auto;">
+</div>
+
+
 ![chadsteve](https://media1.tenor.com/m/2iBayblKJlsAAAAC/minecraft-minecraft-memes.gif)
